@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **axlesubash111@gmail.com**
 
-- 📄 Know about my experiences [https://subash-pandey-resume.tiiny.site](https://subash-pandey-resume.tiiny.site)
+- 📄 Know about my experiences [https://subash-pandey.com](https://subash-pandey.com)
 
 - ⚡ Fun fact **I refactor life decisions.**
 
