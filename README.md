@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building GenAI and ML products for Scopic Software**
 
-- 🌱 I’m currently learning **System Design and SDD/EDD(Spec/Event Driven Development), but also how to move from an AI engineer to a product thinker.**
+- 🌱 I’m currently learning **System Design and Cloud Development**
 
 - 👯 I’m looking to collaborate on **AI/ML open source projects**
 
