@@ -25,6 +25,9 @@ Subject-independent human activity recognition on WISDM. A naive split scores 0.
  
 **[Gavel](https://github.com/notsubash/Gavel)**
 A workspace for pressure-testing startup ideas: collecting evidence and running structured multi-agent debate to judge them.
+
+**[PageAnchor](https://github.com/notsubash/PageAnchor)**
+Every answer cites a verifiable region on a page, or it refuses. Hybrid text + visual RAG for layout-heavy PDFs with strict quote verification.
  
 More projects → [github.com/notsubash](https://github.com/notsubash?tab=repositories)
 
