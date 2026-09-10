@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Subash Pandey</h1>
-<h3 align="center">An AI/ML Engineer passionate about Generative AI and applied machine learning from Nepal</h3>
-
-- 🔭 I’m currently working on **building GenAI and ML products for Scopic Software**
-
-- 🌱 I’m currently learning **System Design and Cloud Development**
-
-- 👯 I’m looking to collaborate on **AI/ML open source projects**
-
-- 💬 Ask me about **Gen AI, RAG and Python**
-
-- 📫 How to reach me **axlesubash111@gmail.com**
-
-- 📄 Know about my experiences [https://subash-pandey.com](https://subash-pandey.com)
-
-- ⚡ Fun fact **I refactor life decisions.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/subash-pandey-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subash-pandey-ai" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Subash Pandey 👋</h1>
+<h3 align="center">AI/ML Engineer</h3>
+<h4 align="center">GenAI systems, RAG, and applied ML</h4>
+ 
+<p align="center">
+I build production GenAI and ML systems — from retrieval pipelines to the cloud-native infrastructure they run on. A lot of my recent work sits at the point where a model's confidence stops matching its correctness, and I like designing the evaluation and tooling that catches that early rather than after deploy.
 </p>
+
+- 🔭 Currently building GenAI and ML products at **Scopic Software**
+- 🌱 Currently deepening my **system design** and **cloud-native development**
+- 👯 Open to collaborating on **RAG, agents, and applied ML evaluation** projects
+- 💬 Ask me about **GenAI, RAG, and Python**
+- 📄 More on my background: [subash-pandey.com](https://subash-pandey.com)
+  
+<h3 align="left">Selected Work</h3>
+ 
+**[latent-parking](https://github.com/notsubash/latent-parking)**
+World-model parking planner combining CEM planning, a JEPA latent predictor, and latent MPC — with explicit "distrust gates" that flag when the model's imagined rollout shouldn't be trusted.
+ 
+**[cloud-native-AI-platform](https://github.com/notsubash/cloud-native-AI-platform)**
+Cost-bounded AI summarization platform: FastAPI on Kubernetes/Helm, provisioned with Terraform on Hetzner, deployed via GitOps (Argo CD), with a full observability stack.
+ 
+**[Activity-Recognition](https://github.com/notsubash/Activity-Recognition)**
+Subject-independent human activity recognition on WISDM. A naive split scores 0.89 macro-F1 — a correct subject-level holdout drops that to 0.29. The project exists to prove that gap and build an evaluation setup that can't hide it.
+ 
+**[Gavel](https://github.com/notsubash/Gavel)**
+A workspace for pressure-testing startup ideas: collecting evidence and running structured multi-agent debate to judge them.
+ 
+More projects → [github.com/notsubash](https://github.com/notsubash?tab=repositories)
+
+<h3 align="left">Connect</h3>
+ 
+📫 [Email](mailto:axlesubash111@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/subash-pandey-ai/) &nbsp;·&nbsp; 🌐 [Portfolio](https://subash-pandey.com)
+ 
+⚡ Fun fact: I refactor life decisions.
 
 <h3 align="left">Languages and Tools:</h3>
 
