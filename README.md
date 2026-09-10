@@ -3,7 +3,7 @@
 <h4 align="center">GenAI systems, RAG, and applied ML</h4>
  
 <p align="center">
-I build production GenAI and ML systems — from retrieval pipelines to the cloud-native infrastructure they run on. A lot of my recent work sits at the point where a model's confidence stops matching its correctness, and I like designing the evaluation and tooling that catches that early rather than after deploy.
+I build production GenAI and ML systems — from retrieval pipelines to the cloud-native infrastructure they run on. A lot of my recent work sits at the point where a model's confidence stops matching its correctness, and I like designing the evaluation and tooling that catches that early rather than after deployment.
 </p>
 
 - 🔭 Currently building GenAI and ML products at **Scopic Software**
