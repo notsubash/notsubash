@@ -8,7 +8,7 @@ I build production GenAI and ML systems — from retrieval pipelines to the clou
 
 - 🔭 Currently building GenAI and ML products at **Scopic Software**
 - 🌱 Currently deepening my **system design** and **cloud-native development**
-- 👯 Open to collaborating on **RAG, agents, and applied ML evaluation** projects
+- 👯 Open to collaborating on **RAG, agents, and applied ML** projects
 - 💬 Ask me about **GenAI, RAG, and Python**
 - 📄 More on my background: [subash-pandey.com](https://subash-pandey.com)
   
