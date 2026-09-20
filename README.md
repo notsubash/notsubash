@@ -13,6 +13,9 @@ I build production GenAI and ML systems — from retrieval pipelines to the clou
 - 📄 More on my background: [subash-pandey.com](https://subash-pandey.com)
   
 <h3 align="left">Selected Work</h3>
+
+**[The Underlying Curve](https://www.instagram.com/theunderlyingcurve/)**
+Silent AI/ML videos where the animation explains the concept. Brand kit, Manim, and a dual 4K FFmpeg pipeline for YouTube, Instagram, and TikTok.
  
 **[latent-parking](https://github.com/notsubash/latent-parking)**
 World-model parking planner combining CEM planning, a JEPA latent predictor, and latent MPC — with explicit "distrust gates" that flag when the model's imagined rollout shouldn't be trusted.
