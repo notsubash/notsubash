@@ -14,14 +14,14 @@ I build production GenAI and ML systems — from retrieval pipelines to the clou
   
 <h3 align="left">Selected Work</h3>
 
-**[The Underlying Curve](https://www.instagram.com/theunderlyingcurve/)**
-Silent AI/ML videos where the animation explains the concept. Brand kit, Manim, and a dual 4K FFmpeg pipeline for YouTube, Instagram, and TikTok.
- 
 **[latent-parking](https://github.com/notsubash/latent-parking)**
 World-model parking planner combining CEM planning, a JEPA latent predictor, and latent MPC — with explicit "distrust gates" that flag when the model's imagined rollout shouldn't be trusted.
  
 **[cloud-native-AI-platform](https://github.com/notsubash/cloud-native-AI-platform)**
 Cost-bounded AI summarization platform: FastAPI on Kubernetes/Helm, provisioned with Terraform on Hetzner, deployed via GitOps (Argo CD), with a full observability stack.
+
+**[The Underlying Curve](https://www.instagram.com/theunderlyingcurve/)**
+Silent AI/ML videos where the animation explains the concept. Brand kit, Manim, and a dual 4K FFmpeg pipeline for YouTube, Instagram, and TikTok.
  
 **[Activity-Recognition](https://github.com/notsubash/Activity-Recognition)**
 Subject-independent human activity recognition on WISDM. A naive split scores 0.89 macro-F1 — a correct subject-level holdout drops that to 0.29. The project exists to prove that gap and build an evaluation setup that can't hide it.
