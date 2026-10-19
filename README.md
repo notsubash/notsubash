@@ -1,114 +1,134 @@
 <h1 align="center">Hi, I'm Subash Pandey 👋</h1>
 <h3 align="center">AI/ML Engineer</h3>
 <h4 align="center">GenAI systems, RAG, and applied ML</h4>
- 
-<p align="center">
-I build production GenAI and ML systems — from retrieval pipelines to the cloud-native infrastructure they run on. A lot of my recent work sits at the point where a model's confidence stops matching its correctness, and I like designing the evaluation and tooling that catches that early rather than after deployment.
+
+ <p align="center">
+  <a href="https://subash-pandey.com"><img alt="subash-pandey.com" src="https://img.shields.io/badge/subash--pandey.com-116E9C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D" height="24"></a>
+  <a href="https://www.linkedin.com/in/subash-pandey-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-116E9C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D" height="24"></a>
+  <a href="mailto:axlesubash111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-116E9C?style=flat-square&logo=gmail&logoColor=white" height="24"></a>
+  <a href="https://cal.com/subash-pandey/intro"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-116E9C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik04IDJ2NCIvPjxwYXRoIGQ9Ik0xNiAydjQiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjQiIHJ4PSIyIi8%2BPHBhdGggZD0iTTMgMTBoMTgiLz48L3N2Zz4%3D" height="24"></a>
 </p>
 
-- 🔭 Currently building GenAI and ML products at **Scopic Software**
-- 🌱 Currently deepening my **system design** and **cloud-native development**
-- 👯 Open to collaborating on **RAG, agents, and applied ML** projects
-- 💬 Ask me about **GenAI, RAG, and Python**
-- 📄 More on my background: [subash-pandey.com](https://subash-pandey.com)
+<p align="center">
+I build production GenAI and ML systems - from retrieval pipelines to the cloud-native infrastructure they run on. A lot of my recent work sits at the point where a model's confidence stops matching its correctness, and I like designing the evaluation and tooling that catches that early rather than after deployment.
+</p>
+
+- **Now:** AI/ML Engineer at **Scopic Software**
+- **Learning:** system design and cloud-native development
+- **Open to:** collaborating on RAG, agents and applied ML
+- **Ask me about:** GenAI, RAG and Python
   
-<h3 align="left">Selected Work</h3>
+## Selected Work
 
-**[latent-parking](https://github.com/notsubash/latent-parking)**
-World-model parking planner combining CEM planning, a JEPA latent predictor, and latent MPC — with explicit "distrust gates" that flag when the model's imagined rollout shouldn't be trusted.
- 
-**[cloud-native-AI-platform](https://github.com/notsubash/cloud-native-AI-platform)**
-Cost-bounded AI summarization platform: FastAPI on Kubernetes/Helm, provisioned with Terraform on Hetzner, deployed via GitOps (Argo CD), with a full observability stack.
+### ML and Vision
 
-**[The Underlying Curve](https://www.instagram.com/theunderlyingcurve/)**
-Silent AI/ML videos where the animation explains the concept. Brand kit, Manim, and a dual 4K FFmpeg pipeline for YouTube, Instagram, and TikTok.
- 
-**[Activity-Recognition](https://github.com/notsubash/Activity-Recognition)**
-Subject-independent human activity recognition on WISDM. A naive split scores 0.89 macro-F1 — a correct subject-level holdout drops that to 0.29. The project exists to prove that gap and build an evaluation setup that can't hide it.
- 
-**[Gavel](https://github.com/notsubash/Gavel)**
-A workspace for pressure-testing startup ideas: collecting evidence and running structured multi-agent debate to judge them.
+**[PageAnchor](https://github.com/notsubash/PageAnchor)**<br>
+Document Q&A where every answer cites a verifiable region of the page, or refuses. Hybrid text and visual retrieval for layout-heavy PDFs with strict quote verification, shipped as a CLI, an API, an MCP server and a Next.js UI that overlays the cited region.<br>
+<sub>ColPali · LanceDB · sentence-transformers · FastAPI · MCP</sub>
 
-**[PageAnchor](https://github.com/notsubash/PageAnchor)**
-Every answer cites a verifiable region on a page, or it refuses. Hybrid text + visual RAG for layout-heavy PDFs with strict quote verification.
- 
-More projects → [github.com/notsubash](https://github.com/notsubash?tab=repositories)
+**[Activity-Recognition](https://github.com/notsubash/Activity-Recognition)** · [write-up](https://www.subash-pandey.com/blog/activity-recognition-pipeline) · [model](https://huggingface.co/axlesubash/wisdm-watch-stat-xgb)<br>
+Subject-independent activity recognition on WISDM, 18 classes. A leaky split scores **0.89** macro-F1; holding out whole subjects drops the same setup to **0.29**. The project builds an evaluation that can't hide that gap, then serves the honest best (watch-sensor XGBoost, 0.70) from a CPU FastAPI service.<br>
+<sub>XGBoost · ONNX · MLflow · FastAPI</sub>
+
+**[latent-parking](https://github.com/notsubash/latent-parking)** · [write-up](https://www.subash-pandey.com/blog/when-a-self-parking-car-cannot-trust-its-imagination)<br>
+A parking planner that imagines a few seconds ahead, built to measure when that imagination can be trusted. CEM on the true dynamics reaches the parking-v0 success check; learned latent MPC parks **0 of 6** measured seeds, and the distrust signals (residual, disagreement, imagined spread) sit at chance for spotting a crash ahead. The write-up reports that negative result in full.<br>
+<sub>PyTorch · JEPA · CEM · MPC · highway-env</sub>
+
+### Agents and infrastructure
+
+**[Gavel](https://github.com/notsubash/Gavel)** · [write-up](https://www.subash-pandey.com/blog/building-an-idea-workbench)<br>
+A workspace for pressure-testing startup ideas: collect evidence, then run five parallel judges and a structured LangGraph debate, with readiness gates, versioned worksheets and a FastAPI SSE run engine on a durable SQLite event log.<br>
+<sub>LangGraph · FastAPI · Next.js · SQLite</sub>
+
+**[cloud-native-AI-platform](https://github.com/notsubash/cloud-native-AI-platform)** · [write-up](https://www.subash-pandey.com/blog/building-a-cloud-native-ai-platform)<br>
+A cost-bounded AI summarization platform: FastAPI on Kubernetes with Helm, Terraform on Hetzner, GitOps through Argo CD, and Prometheus, Grafana and Loki for observability. Runs for under $15 a month.<br>
+<sub>Kubernetes · Helm · Terraform · Argo CD · Prometheus · Grafana · Loki</sub>
+
+### Teaching
+
+**[The Underlying Curve](https://www.instagram.com/theunderlyingcurve/)** · [about the series](https://www.subash-pandey.com/projects/the-underlying-curve)<br>
+Silent explainers of data science, ML and AI where the animation does the teaching. One object per video: scenes in Manim, encodes and platform crops in FFmpeg.<br>
+<sub>Manim · FFmpeg · Python</sub>
+
+More in [my repositories →](https://github.com/notsubash?tab=repositories)
 
 ## Open Source Contributions
 
 I contribute to open source. Merged PRs are listed in [my contributions repo](https://github.com/notsubash/OSS-contributions).
 
-<h3 align="left">Connect</h3>
- 
-📫 [Email](mailto:axlesubash111@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/subash-pandey-ai/) &nbsp;·&nbsp; 🌐 [Portfolio](https://subash-pandey.com)
- 
-⚡ Fun fact: I refactor life decisions.
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
+<table>
+  <tr>
+    <td><b>GenAI / LLM</b></td>
+    <td>
+      <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1e2226?style=flat-square&logo=langgraph&logoColor=white">
+      <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1e2226?style=flat-square&logo=langchain&logoColor=white">
+      <img alt="Ollama" src="https://img.shields.io/badge/Ollama-1e2226?style=flat-square&logo=ollama&logoColor=white">
+      <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-1e2226?style=flat-square&logo=qdrant&logoColor=white">
+      <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-1e2226?style=flat-square&logo=huggingface&logoColor=FFD21E">
+      <img alt="MCP" src="https://img.shields.io/badge/MCP-1e2226?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+      <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-1e2226?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / data</b></td>
+    <td>
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1e2226?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+      <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1e2226?style=flat-square&logo=scikitlearn&logoColor=F7931E">
+      <img alt="pandas" src="https://img.shields.io/badge/pandas-1e2226?style=flat-square&logo=pandas&logoColor=white">
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1e2226?style=flat-square&logo=numpy&logoColor=white">
+      <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-1e2226?style=flat-square&logo=opencv&logoColor=white">
+      <img alt="ONNX" src="https://img.shields.io/badge/ONNX-1e2226?style=flat-square&logo=onnx&logoColor=white">
+      <img alt="MLflow" src="https://img.shields.io/badge/MLflow-1e2226?style=flat-square&logo=mlflow&logoColor=0194E2">
+      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-1e2226?style=flat-square&logo=streamlit&logoColor=FF4B4B">
+      <img alt="Gradio" src="https://img.shields.io/badge/Gradio-1e2226?style=flat-square&logo=gradio&logoColor=F97316">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages & backend</b></td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-1e2226?style=flat-square&logo=python&logoColor=3776AB">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e2226?style=flat-square&logo=typescript&logoColor=3178C6">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e2226?style=flat-square&logo=javascript&logoColor=F7DF1E">
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-1e2226?style=flat-square&logo=gnubash&logoColor=4EAA25">
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1e2226?style=flat-square&logo=fastapi&logoColor=009688">
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-1e2226?style=flat-square&logo=flask&logoColor=3BABC3">
+      <img alt="Django" src="https://img.shields.io/badge/Django-1e2226?style=flat-square&logo=django&logoColor=white">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1e2226?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+      <img alt="React" src="https://img.shields.io/badge/React-1e2226?style=flat-square&logo=react&logoColor=61DAFB">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1e2226?style=flat-square&logo=nextdotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & infra</b></td>
+    <td>
+      <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-1e2226?style=flat-square&logo=googlecloud&logoColor=4285F4">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-1e2226?style=flat-square&logo=docker&logoColor=2496ED">
+      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1e2226?style=flat-square&logo=kubernetes&logoColor=326CE5">
+      <img alt="Helm" src="https://img.shields.io/badge/Helm-1e2226?style=flat-square&logo=helm&logoColor=white">
+      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-1e2226?style=flat-square&logo=terraform&logoColor=white">
+      <img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-1e2226?style=flat-square&logo=argo&logoColor=EF7B4D">
+      <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-1e2226?style=flat-square&logo=prometheus&logoColor=E6522C">
+      <img alt="Grafana" src="https://img.shields.io/badge/Grafana-1e2226?style=flat-square&logo=grafana&logoColor=F46800">
+      <img alt="Serverless" src="https://img.shields.io/badge/Serverless-1e2226?style=flat-square&logo=serverless&logoColor=FD5750">
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-1e2226?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data stores</b></td>
+    <td>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1e2226?style=flat-square&logo=postgresql&logoColor=4169E1">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1e2226?style=flat-square&logo=mysql&logoColor=4479A1">
+      <img alt="Redis" src="https://img.shields.io/badge/Redis-1e2226?style=flat-square&logo=redis&logoColor=FF4438">
+      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1e2226?style=flat-square&logo=sqlite&logoColor=white">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1e2226?style=flat-square&logo=mongodb&logoColor=47A248">
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1e2226?style=flat-square&logo=firebase&logoColor=DD2C00">
+      <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-1e2226?style=flat-square&logo=opensearch&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-**Core / Web**
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stripe.svg" alt="stripe" width="40" height="40"/></a>
-</p>
+<sub>Also worked with: XGBoost · LanceDB · ColPali · NetworkX · Gephi · Matplotlib · Seaborn · Tableau · Grafana Loki · Stripe · Redux · Chart.js · Postman · HTML/CSS</sub>
 
-**GenAI / LLM / Agents**
-<p align="left">
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="langchain" width="40" height="40"/></a>
-<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" alt="langgraph" width="40" height="40"/></a>
-<a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="40" height="40"/></a>
-<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" alt="qdrant" width="40" height="40"/></a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" alt="mlflow" width="40" height="40"/></a>
-</p>
-
-**Data Science / ML**
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/></a>
-<a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gradio.svg" alt="gradio" width="40" height="40"/></a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original-wordmark.svg" alt="chartjs" width="40" height="40"/></a>
-</p>
-
-**Cloud & Infra**
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/></a>
-<a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
-<a href="https://www.serverless.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/serverless.svg" alt="serverless" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-</p>
-
-**Databases**
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
-</p>
-
-**Also worked with:** Langfuse · Grafana Loki · Tableau · Seaborn · Gephi · Microsoft Office
+<p align="center"><sub>⚡Fun fact: I refactor life decisions.</sub></p>
