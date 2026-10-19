@@ -34,6 +34,10 @@ Every answer cites a verifiable region on a page, or it refuses. Hybrid text + v
  
 More projects → [github.com/notsubash](https://github.com/notsubash?tab=repositories)
 
+## Open Source Contributions
+
+I contribute to open source. Merged PRs are listed in [my contributions repo](https://github.com/notsubash/OSS-contributions).
+
 <h3 align="left">Connect</h3>
  
 📫 [Email](mailto:axlesubash111@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/subash-pandey-ai/) &nbsp;·&nbsp; 🌐 [Portfolio](https://subash-pandey.com)
