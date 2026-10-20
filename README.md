@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Subash Pandey 👋</h1>
-<h3 align="center">AI/ML Engineer</h3>
-<h4 align="center">GenAI systems, RAG, and applied ML</h4>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img alt="Subash Pandey, AI/ML Engineer in Kathmandu, working remotely. Production GenAI and ML systems, and the evaluation that keeps them honest. Beside it, a dot glides down a loss curve, swinging from side to side in smaller and smaller arcs until it settles at the minimum." src="banner-light.svg" width="100%">
+</picture>
 
  <p align="center">
   <a href="https://subash-pandey.com"><img alt="subash-pandey.com" src="https://img.shields.io/badge/subash--pandey.com-116E9C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D" height="24"></a>
@@ -93,8 +94,6 @@ I contribute to open source. Merged PRs are listed in [my contributions repo](ht
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e2226?style=flat-square&logo=javascript&logoColor=F7DF1E">
       <img alt="Bash" src="https://img.shields.io/badge/Bash-1e2226?style=flat-square&logo=gnubash&logoColor=4EAA25">
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1e2226?style=flat-square&logo=fastapi&logoColor=009688">
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-1e2226?style=flat-square&logo=flask&logoColor=3BABC3">
-      <img alt="Django" src="https://img.shields.io/badge/Django-1e2226?style=flat-square&logo=django&logoColor=white">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1e2226?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
       <img alt="React" src="https://img.shields.io/badge/React-1e2226?style=flat-square&logo=react&logoColor=61DAFB">
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1e2226?style=flat-square&logo=nextdotjs&logoColor=white">
@@ -124,7 +123,6 @@ I contribute to open source. Merged PRs are listed in [my contributions repo](ht
       <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1e2226?style=flat-square&logo=sqlite&logoColor=white">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1e2226?style=flat-square&logo=mongodb&logoColor=47A248">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1e2226?style=flat-square&logo=firebase&logoColor=DD2C00">
-      <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-1e2226?style=flat-square&logo=opensearch&logoColor=white">
     </td>
   </tr>
 </table>
